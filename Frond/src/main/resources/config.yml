@@ -1,0 +1,13 @@
+# Leave empty to enable all worlds
+InWorlds: []
+# Do not put in these worlds
+notInWorld: []
+#Tick delay to check broken blocks (must be at least 5)
+breakDelay: 5
+#Tick delay to check leaves
+decayDelay: 2
+#Set below setting to true for leaves to break 1x1
+oneXOne: false
+# play particles and sounds
+spawnParticles: true
+playSound: true

@@ -1,0 +1,6 @@
+name: Frond
+version: ${project.version}
+main: com.firehousesmp.frond.Frond
+api-version: 1.16
+authors: [ Terminalogic, Angry_Pingu ]
+description: Frond is a plugin that allows users to slow or speedup leaf decay when all branches are removed
